@@ -4,7 +4,10 @@ The code includes two methods, one based on the RGB channel values of the image 
 The latter has been commented out.
 
 The path to the image can be provided via user input.
-Or you can unncomment the ```# path = 'D:/Projects/Night_Mode/8.jpg'``` line to add the path in the code itself.
+Or you can unncomment the following line to add the path in the code itself.
+```
+# path = 'D:/Projects/Night_Mode/8.jpg'
+``` 
 
 To run the script:
 ```!python nightmode.py```
